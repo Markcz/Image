@@ -3,7 +3,7 @@
 
 
 #  github 引用图片实例:
-# {![image](https://github.com/Markcz/Image/blob/master/FileExploer/test.jpg)}
+# ![image](https://github.com/Markcz/Image/blob/master/FileExploer/test.jpg)
 
 # github 命令：
   
