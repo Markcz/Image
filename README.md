@@ -3,12 +3,12 @@
 
 
 #  github 引用图片实例:
-# {![image](https://github.com/Markcz/Image/blob/master/FileExploer/about.jpg)}
+# {![image](https://github.com/Markcz/Image/blob/master/FileExploer/test.jpg)}
 
 # github 命令：
   
 #  //配置用户名和邮箱
-# git config --global user.name "userName"
+#  git config --global user.name "userName"
 #  git config --global user.emai "you@youDomain.com"
     
 #  git clone https://github.com/Markcz/Image.git         //拷贝一个 Git 仓库到本地
